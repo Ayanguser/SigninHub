@@ -18,7 +18,7 @@
 
 **👉 [从 GitHub Releases 下载 SigninHub-mobile.apk](https://github.com/Ayanguser/SigninHub/releases/latest)**
 
-> 当前版本：**V2.63**（versionCode 291，正式签名包，约 1.4 MB）。本次更新内容见 [docs/CHANGELOG-v2.63.md](docs/CHANGELOG-v2.63.md)。
+> 当前版本：**V2.63**（正式签名包，约 1.4 MB）。本次更新内容见 [docs/CHANGELOG-v2.63.md](docs/CHANGELOG-v2.63.md)。
 
 > Releases 页直链下载、带版本号与历史版本；若附件不可用，也可用仓库内备份：[`release/SigninHub-mobile.apk`](release/SigninHub-mobile.apk)（校验值见 [`release/SHA256SUMS.txt`](release/SHA256SUMS.txt)）。电脑/服务器端后端用 `backend/` 源码运行。
 ---
